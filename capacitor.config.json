@@ -1,0 +1,9 @@
+{
+  "appId": "com.swasthyareader.app",
+  "appName": "Swasthya Reader",
+  "webDir": "dist",
+  "server": {
+    "url": "http://192.168.23.144:5173",
+    "cleartext": true
+  }
+}
