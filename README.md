@@ -4,7 +4,7 @@
 &nbsp;&nbsp;&nbsp;
 <a href="https://hacktoberfest.com/"><img src="public/asset/hacktober.svg" alt="Hacktoerfest" height="70"></a>
 &nbsp;&nbsp;&nbsp;
-<a href= "https://sunway.edu.np"> <img src="public/asset/download.png" alt="Sunway College Kathmandu" height="70"></a>
+<a href= "https://sunway.edu.np"> <img src="public/asset/download.png" alt="Sunway College Kathmandu" height="100"></a>
 # Swasthya Reader (स्वास्थ्य रिडर)
 
 **Hacktoberfest Hack Day Kathmandu 2026 · Track 01: Best Use of Gemma 4**
